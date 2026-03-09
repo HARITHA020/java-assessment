@@ -142,7 +142,6 @@ public class Sum1 {
                 
             }
         }
-
         input.close();
     }
 }
